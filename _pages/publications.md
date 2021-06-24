@@ -1,18 +1,14 @@
 ---
 layout: archive
-title: "Publications"
+title: "First/Co-first Publications"
 permalink: /publications/
 author_profile: true
 ---
 
----
-layout: archive
-title: ""
-permalink: /publications/
-author_profile: true
----
 
 (\* equal contribution, \# corresponding author)
+
+
 
 - **Less is More: Pay Less Attention in Vision Transformers**
 
@@ -61,4 +57,7 @@ Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 Peng Chen\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
 
 [[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/bohanzhuang/model-quantization)]  **CVPR 2021 (oral presentation)**
+
+
+
 

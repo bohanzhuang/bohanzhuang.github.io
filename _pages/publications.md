@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "First/Co-first Publications"
-permalink: /First-author publications/
+permalink: /publications/
 author_profile: true
 ---
 

@@ -104,7 +104,7 @@ Zhuangwei Zhuang\*, Mingkui Tan\*, **Bohan Zhuang**\*, Jing Liu\*, Yong Guo, Qin
 
 **Bohan Zhuang**, Qi Wu, Chunhua Shen, Ian Reid, Anton van den Hengel
 
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12260)] **AAAI 2018**
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12260)] **AAAI 2018 (oral)**
 
 
 

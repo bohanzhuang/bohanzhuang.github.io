@@ -9,7 +9,7 @@ author_profile: true
 (\* equal contribution)
 
 
-## Data/Model compression and acceleration for mobile devices
+### <span style="color:blue"> Data/Model compression and acceleration for mobile devices </span>
 
 
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**

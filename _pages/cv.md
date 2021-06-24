@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -17,7 +17,6 @@ Education
 Work experience
 ======
 * Senior Research Associate, the University of Adelaide, 2018-2020
-
 * Assistant Professor, 2020-now
 
   

@@ -10,34 +10,6 @@ author_profile: true
 
 
 
-- **Less is More: Pay Less Attention in Vision Transformers**
-
-**Zizheng Pan**, Bohan Zhuang\#, Haoyu He, Jing Liu, Jianfei Cai
-
-[[Paper](http://arxiv.org/abs/2105.14217)] [[Code](https://github.com/MonashAI/LIT)]
-
-
-- **End-to-end One-shot Human Parsing**
-
-**Haoyu He**, Jing Zhang, Bohan Zhuang, Jianfei Cai, Dacheng Tao
-
-[[Paper](https://arxiv.org/abs/2105.01241)][[Code](https://github.com/Charleshhy/One-shot-Human-Parsing/stargazers)]
-
-
-- **LBS: Loss-aware Bit Sharing for Automatic Model Compression**
-
-**Jing Liu**, Bohan Zhuang\#, Peng Chen, Yong Guo, Chunhua Shen, Jianfei Cai, Mingkui Tan
-
-[[Paper](https://arxiv.org/abs/2101.04935)]
-
-
-- **Scalable Visual Transformers with Hierarchical Pooling**
-
-**Zizheng Pan**, Bohan Zhuang\#, Jing Liu, Haoyu He, Jianfei Cai
-
-[[Paper](https://arxiv.org/abs/2103.10619)]
-
-
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**
 
 Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
@@ -52,11 +24,55 @@ Bohan Zhuang\*, Mingkui Tan\*, **Jing Liu**\*, Ian Reid, Chunhua Shen\#
 [[Paper](https://ieeexplore.ieee.org/document/9384353)][[Code](https://github.com/SCUT-AILab/DCP)] **TPAMI 2021**
 
 
-- **AQD: Towards Accurate Quantized Object Detection**
+- **FATNN: Fast and Accurate Ternary Neural Networks**
 
-Peng Chen\*, **Jing Liu**\*, Bohan Zhuang\#, Mingkui Tan, Chunhua Shen
+Peng Chen\*,  Bohan Zhuang\*, Chunhua Shen
 
-[[Paper](https://arxiv.org/abs/2007.06919)][[Code](https://github.com/bohanzhuang/model-quantization)]  **CVPR 2021 (oral presentation)**
+[[Paper](https://arxiv.org/pdf/2008.05101.pdf)]
+
+
+- **SA-BNN: State-Aware Binary Neural Network**
+
+Chunlei Liu\*, Peng Chen\*, Bohan Zhuang\*, Chunhua Shen, Baochang Zhang, Wenrui Ding
+
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/16306)] **AAAI 2021**
+
+
+- **Generative Low-bitwidth Data Free Quantization**
+
+Shoukai Xu\*, Haokun Li\*, Bohan Zhuang\*, Jing Liu, Jiezhang Cao, Chuangrun Liang, Mingkui Tan
+
+[[Paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123570001.pdf)][[Code](https://github.com/xushoukai/GDFQ)] **ECCV 2020**
+
+
+- **Training Quantized Neural Networks with a Full-precision Auxiliary Module**
+
+Bohan Zhuang, Lingqiao Liu, Mingkui Tan, Chunhua Shen, Ian Reid
+
+[[Paper](https://arxiv.org/pdf/2008.05101.pdf)]  **CVPR 2020 (oral)** 
+
+
+- **Structured Binary Neural Networks for Image Recognition**
+
+**Bohan Zhuang**,  Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid
+
+[[Paper](https://arxiv.org/pdf/1909.09934.pdf)]  
+
+
+- **Structured Binary Neural Networks for Accurate Image Classification and Semantic Segmentation**
+
+**Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid
+
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhuang_Structured_Binary_Neural_Networks_for_Accurate_Image_Classification_and_Semantic_CVPR_2019_paper.pdf)]  
+
+
+- **Discrimination-aware Channel Pruning for Deep Neural Networks**
+
+Zhuangwei Zhuang\*, Mingkui Tan\*, Bohan Zhuang\*, Jing Liu\*, Yong Guo, Qingyao Wu, Junzhou Huang, Jinhui Zhu  
+
+[[Paper](https://proceedings.neurips.cc/paper/2018/file/55a7cf9c71f1c9c495413f934dd1a158-Paper.pdf)] NeurIPS 2018**
+
+
 
 
 

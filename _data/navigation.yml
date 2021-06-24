@@ -3,8 +3,8 @@ main:
   - title: "First-author Publications"
     url: /publications/
 
-  - title: "Co-author publications"
-    url: /Co-publications/  
+#  - title: "Co-author publications"
+#    url: /Co-publications/  
 
   - title: "Talks"
     url: /talks/    

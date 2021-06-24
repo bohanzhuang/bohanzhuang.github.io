@@ -84,9 +84,9 @@ Zhuangwei Zhuang\*, Mingkui Tan\*, **Bohan Zhuang**\*, Jing Liu\*, Yong Guo, Qin
 
 - **Fast Training of Triplet-based Deep Binary Embedding Networks**
 
-Bohan Zhuang, Guosheng Lin, Chunhua Shen, Ian Reid
+**Bohan Zhuang**, Guosheng Lin, Chunhua Shen, Ian Reid
 
-[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf)] **CVPR 2018**
+[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf)] **CVPR 2016**
 
 
 
@@ -95,10 +95,50 @@ Bohan Zhuang, Guosheng Lin, Chunhua Shen, Ian Reid
 
 - **Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries**
 
-Bohan Zhuang, Qi Wu, Chunhua Shen, Ian Reid,  Anton ven dan Hengel 
-
+**Bohan Zhuang**, Qi Wu, Chunhua Shen, Ian Reid,  Anton ven dan Hengel 
 
 [[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf)] **CVPR 2018**
+
+
+- **HCVRD: a benchmark for large-scale Human-Centered Visual Relationship Detection**
+
+**Bohan Zhuang**, Qi Wu, Chunhua Shen, Ian Reid, Anton van den Hengel
+
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/12260)] **AAAI 2018**
+
+
+
+- **Towards Context-aware Interaction Recognition for Visual Relationship Detection**
+
+**Bohan Zhuang**, Lingqiao Liu, Chunhua Shen, Ian Reid
+
+[[Paper](https://openaccess.thecvf.com/content_ICCV_2017/papers/Zhuang_Towards_Context-Aware_Interaction_ICCV_2017_paper.pdf)] **ICCV 2017**
+
+
+- **Attend in Groups: a Weakly-supervised Deep Learning Framework for Learning from Web Data**
+
+**Bohan Zhuang**, Lingqiao Liu, Yao Li, Chunhua Shen, Ian Reid
+
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2017/papers/Zhuang_Attend_in_Groups_CVPR_2017_paper.pdf)] **CVPR 2017**
+
+
+- **Visual Tracking via Shallow and Deep Collaborative Model**
+
+Bohan Zhuang, Lijun Wang, Huchuan Lu
+
+[[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231216309663)] **Undergraduate thesis & Neurocomputing 2016**
+
+
+- **isual Tracking via Discriminative Sparse Similarity Map**
+
+**Bohan Zhuang**, Huchuan Lu, Ziyang Xiao, Dong Wang
+
+[[Paper](https://ieeexplore.ieee.org/document/6748981)] **TIP 2014**
+
+
+
+
+
 
 
 

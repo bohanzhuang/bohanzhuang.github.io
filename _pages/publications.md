@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "First/Co-first Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
@@ -9,7 +9,7 @@ author_profile: true
 (\* equal contribution)
 
 
-### <span style="color:blue"> Data/Model compression and acceleration for mobile devices </span>
+## <span style="color:blue"> Data/Model compression and acceleration for mobile devices </span>
 
 
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**
@@ -90,7 +90,7 @@ Zhuangwei Zhuang\*, Mingkui Tan\*, **Bohan Zhuang**\*, Jing Liu\*, Yong Guo, Qin
 
 
 
-### <span style="color:blue"> Applications </span>
+## <span style="color:blue"> Applications </span>
 
 
 - **Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries**

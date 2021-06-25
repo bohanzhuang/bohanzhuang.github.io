@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhuang Zhuang's homepage"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Bohan Zhuang"
 description              : &description "personal description"

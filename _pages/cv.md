@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.S. in Electronic and Information Engineering, Dalian University of Technology, 2014
+* B.E. in Electronic and Information Engineering, Dalian University of Technology, 2014
 * Ph.D in Computer Science, the University of Adelaide, 2018 
 
 Work experience

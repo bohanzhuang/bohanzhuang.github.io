@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
+<br />
 <font size=5>I am now leading the <a href="https://monashai.github.io/">Monash Green AI Lab.</a></font>
+<br />
 
 During my PhD, I was honored to be advised by [Prof. Chunhua Shen](https://cshen.github.io/) and [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/).
 During my undergraduate, I was advised by [Prof. Huchuan Lu](https://www.google.com/search?q=huchuan+lu&oq=huchuan+lu&aqs=chrome..69i57j0i22i30l5.1619j0j7&sourceid=chrome&ie=UTF-8).

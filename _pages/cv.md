@@ -17,6 +17,6 @@ Education
 Work experience
 ======
 * Senior Research Associate, the University of Adelaide, 2018-2020
-* Assistant Professor, 2020-now
+* Assistant Professor @ Monash University, 2020-now
 
   

@@ -1,5 +1,9 @@
 # main links links
 main:
+
+  - title: "About"
+    url: /
+
   - title: "First-author Publications"
     url: /publications/
 

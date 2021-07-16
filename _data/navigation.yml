@@ -7,8 +7,8 @@ main:
   - title: "First-author Publications"
     url: /publications/
 
-#  - title: "Co-author publications"
-#    url: /Co-publications/  
+  - title: "Lab"
+    url: https://monashai.github.io/
 
 #  - title: "Talks"
 #    url: /talks/    

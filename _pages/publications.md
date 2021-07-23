@@ -30,7 +30,7 @@ Jing Liu\*, **Bohan Zhuang**\*, Zhuangwei Zhuang\*, Yong Guo, Junzhou Huang, Jin
 
 Peng Chen\*,  **Bohan Zhuang**\*, Chunhua Shen
 
-[[Paper](https://arxiv.org/pdf/2008.05101.pdf)]
+[[Paper](https://arxiv.org/pdf/2008.05101.pdf)]  **ICCV 2021**
 
 
 - **SA-BNN: State-Aware Binary Neural Network**

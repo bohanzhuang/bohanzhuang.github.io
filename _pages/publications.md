@@ -51,7 +51,7 @@ Shoukai Xu\*, Haokun Li\*, **Bohan Zhuang**\*, Jing Liu, Jiezhang Cao, Chuangrun
 
 **Bohan Zhuang**, Lingqiao Liu, Mingkui Tan, Chunhua Shen, Ian Reid
 
-[[Paper](https://arxiv.org/pdf/2008.05101.pdf)]  **CVPR 2020 (oral)** 
+[[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhuang_Training_Quantized_Neural_Networks_With_a_Full-Precision_Auxiliary_Module_CVPR_2020_paper.pdf)]  **CVPR 2020 (oral)** 
 
 
 - **Structured Binary Neural Networks for Image Recognition**

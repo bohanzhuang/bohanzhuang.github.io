@@ -97,7 +97,7 @@ Zhuangwei Zhuang\*, Mingkui Tan\*, **Bohan Zhuang**\*, Jing Liu\*, Yong Guo, Qin
 
 **Bohan Zhuang**, Qi Wu, Chunhua Shen, Ian Reid,  Anton ven dan Hengel 
 
-[[Paper](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Zhuang_Fast_Training_of_CVPR_2016_paper.pdf)] **CVPR 2018**
+[[Paper](https://openaccess.thecvf.com/content_cvpr_2018/papers/Zhuang_Parallel_Attention_A_CVPR_2018_paper.pdf)] **CVPR 2018**
 
 
 - **HCVRD: a benchmark for large-scale Human-Centered Visual Relationship Detection**

@@ -9,7 +9,7 @@ author_profile: true
 (\* equal contribution)
 
 
-## <span style="color:blue"> Data/Model compression and acceleration for mobile devices </span>
+## <span style="color:blue"> Efficient deep learning computing for edge devices </span>
 
 
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-<font size=5>I am now leading the <a href="https://zhuang-group.github.io/">Monash Green AI Lab</a></font>.
+<font size=5>I am now leading the <a href="https://zhuang-group.github.io/">Zhuang AI Group</a></font>.
 </p>
 
 During my PhD, I was honored to be advised by [Prof. Chunhua Shen](https://cshen.github.io/) and [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/).

@@ -129,7 +129,7 @@ Bohan Zhuang, Lijun Wang, Huchuan Lu
 [[Paper](https://www.sciencedirect.com/science/article/abs/pii/S0925231216309663)] **Undergraduate thesis & Neurocomputing 2016**
 
 
-- **isual Tracking via Discriminative Sparse Similarity Map**
+- **Visual Tracking via Discriminative Sparse Similarity Map**
 
 **Bohan Zhuang**, Huchuan Lu, Ziyang Xiao, Dong Wang
 

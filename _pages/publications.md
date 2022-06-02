@@ -12,6 +12,13 @@ author_profile: true
 ## <span style="color:blue"> Efficient deep learning computing for edge devices </span>
 
 
+- **Structured Binary Neural Networks for Image Recognition**
+
+**Bohan Zhuang**, Chunhua Shen, Mingkui Tan, Peng Chen, Lingqiao Liu, Ian Reid
+
+[[Paper](https://arxiv.org/pdf/1909.09934.pdf)]  **IJCV 2022**
+
+
 - **Effective Training of Convolutional Neural Networks with Low-bitwidth Weights and Activations**
 
 **Bohan Zhuang**\*, Mingkui Tan\*, Jing Liu\*, Ian Reid, Chunhua Shen\#
@@ -52,13 +59,6 @@ Shoukai Xu\*, Haokun Li\*, **Bohan Zhuang**\*, Jing Liu, Jiezhang Cao, Chuangrun
 **Bohan Zhuang**, Lingqiao Liu, Mingkui Tan, Chunhua Shen, Ian Reid
 
 [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Zhuang_Training_Quantized_Neural_Networks_With_a_Full-Precision_Auxiliary_Module_CVPR_2020_paper.pdf)]  **CVPR 2020 (oral)** 
-
-
-- **Structured Binary Neural Networks for Image Recognition**
-
-**Bohan Zhuang**,  Chunhua Shen, Mingkui Tan, Lingqiao Liu, Ian Reid
-
-[[Paper](https://arxiv.org/pdf/1909.09934.pdf)]  
 
 
 - **Structured Binary Neural Networks for Accurate Image Classification and Semantic Segmentation**

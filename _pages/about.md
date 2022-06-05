@@ -12,8 +12,6 @@ redirect_from:
 <font size=5>I am now leading the <a href="https://zip-group.github.io/">Zhuang Intelligent Processing Group</a></font>.
 </p>
 
-<table><tr><td bgcolor=yellow> I am now recruiting 1-2 CSC students. If you are interested pls drop me an email.</td></tr></table>
-
 During my PhD, I was honored to be advised by [Prof. Chunhua Shen](https://cshen.github.io/) and [Prof. Ian Reid](https://cs.adelaide.edu.au/~ianr/).
 During my undergraduate, I was fortunately advised by [Prof. Huchuan Lu](https://www.google.com/search?q=huchuan+lu&oq=huchuan+lu&aqs=chrome..69i57j0i22i30l5.1619j0j7&sourceid=chrome&ie=UTF-8).
 

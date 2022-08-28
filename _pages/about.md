@@ -29,5 +29,5 @@ redirect_from:
 </p>
 
 </p>
-<font size=10>My appearance is OK. Very tall.</font>.
+<font size=10>My appearance is OK. Very tall</font>.
 </p>

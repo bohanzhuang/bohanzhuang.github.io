@@ -25,7 +25,7 @@ redirect_from:
 </p>
 
 <p>
-<font size=6> - I can born many babies</font>.
+<font size=6> - I can bear many babies</font>.
 </p>
 
 <p>

@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p>
-<font size=10>I am now seeking a girlfriend. Requirement: height 1750-1800mm, age 25-30. Contact: See left below</font>.
+<font size=10>I am now seeking a girlfriend. Requirement: height 1700-1750mm, age 25-30. Contact: See left below</font>.
 </p>
 
 <p>

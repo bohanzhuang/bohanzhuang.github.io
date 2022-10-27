@@ -10,4 +10,4 @@ redirect_from:
 
 I am now actively looking for senior lecturer (or equivalent) positions. My research is on efficient deep learning and you can find my lab information and my previous publications at the top. 
 
-I am also seeking for wide collaborations from flagship institutions. If you are interested in my research, pls drop my an email. 
+I am also seeking collaborations from flagship institutions, especially from the industry. If you are interested in my research, please drop me an email. 

@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am now actively looking for senior lecturer (or equivalent) positions. My research is on efficient deep learning and you can find my lab information and my previous publications at the top. 
+I am now actively looking for senior lecturer (or equivalent) or research scientist positions. My research is on efficient deep learning and you can find my lab information and my previous publications at the top. 
 
 I am also seeking collaborations from flagship institutions, especially from the industry. If you are interested in my research, please drop me an email. 

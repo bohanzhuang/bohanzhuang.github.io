@@ -14,7 +14,7 @@ My research is on Efficient Machine Learning (TinyML) and its applications on th
 
 I am also seeking collaborations from flagship institutions, especially from the industry. If you have strong research background and are interested in my research, I am eager to collaborate. 
 
-I am recruiting one strong, self-motivated visiting student (1-year), promising 1v1 supervision.
+I am recruiting one strong, self-motivated visiting student (1-year), promising 1v1 advising.
 
 
 

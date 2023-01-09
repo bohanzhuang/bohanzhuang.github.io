@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am making big things in 2023.
 
 My research is on Efficient Machine Learning (TinyML) and its applications on the edge. You can find my lab information and my previous publications at the top. 
 

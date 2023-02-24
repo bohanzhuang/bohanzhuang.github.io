@@ -13,7 +13,4 @@ My research is on Efficient Machine Learning (TinyML) and its applications on th
 
 I am also seeking collaborations from flagship institutions, especially from the industry. If you have strong research background and are interested in my research, I am eager to collaborate. 
 
-I keep the number of students under 10, promising 1v1 supervison. I am now recruiting one strong, self-motivated student.
-
-
 

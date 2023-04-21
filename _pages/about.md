@@ -9,8 +9,8 @@ redirect_from:
 ---
 
 
-My research is on Efficient Machine Learning (TinyML) and its applications on the edge. You can find my lab information and my previous publications at the top. 
+My research is on Efficient Machine Learning (TinyML) and its applications on the edge. You can find my lab information and my publications at the top. 
 
-I am also seeking collaborations from flagship institutions, especially from the industry. If you have strong research background and are interested in my research, I am eager to collaborate. 
+I have stopped recruiting any research students affiliated with Monash University. 
 
 

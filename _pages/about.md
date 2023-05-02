@@ -13,6 +13,5 @@ My research is on Efficient Machine Learning (TinyML) and its applications on th
 
 I am actively seeking collaborations with leading institutions, particularly from the industry. 
 
-**I am not accepting research students @ Monash University.** 
 
 

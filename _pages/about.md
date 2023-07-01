@@ -13,4 +13,4 @@ My research is on Tiny Machine Learning (TinyML) and its applications in compute
 
 I am actively pursuing collaborations with industry-leading institutions.
 
-I am not accepting PhD students at Monash University.
+I am accepting at most 1 strong PhD candidate.

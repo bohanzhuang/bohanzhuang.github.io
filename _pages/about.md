@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My research is on Tiny Machine Learning (TinyML) and its applications in computer vision and natural langauge processing. You can find my lab information and my publications at the top. 
+My research is on Tiny Machine Learning (TinyML) and its applications in computer vision and natural language processing. You can find my lab information and my publications at the top. 
 
 I am actively pursuing collaborations with industry.
 

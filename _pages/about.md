@@ -13,4 +13,4 @@ My research is on Tiny Machine Learning (TinyML) and its applications in compute
 
 I am actively pursuing collaborations with industry.
 
-I am accepting several PhD candidates, at both Monash University and Zhejiang University. If you are interested, pls drop an email to bohan.zhuang@gmail.com
+I am accepting several PhD candidates, at both Monash University and Zhejiang University. If you are interested, pls drop an email to bohan dot zhuang at gmail dot com

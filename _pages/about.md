@@ -16,7 +16,7 @@ I am leading [ZIP Lab](https://ziplab.github.io/).
 
 I am with an award from the National Science Fund for Excellent Young Scholars (Overseas).
 
-I am actively recruiting Research Assistant, Research Fellow, Master and PhD students @ Zhejiang University & Monash University. If you are interested in my lab, pls drop an email to bohan dot zhuang at gmail dot com
+I am actively recruiting Research Assistant, Research Fellow, Master and PhD students @ Zhejiang University. If you are interested in my lab, pls drop an email to bohan dot zhuang at gmail dot com
 
 I am actively pursuing collaborations with industry.
 

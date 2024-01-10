@@ -12,7 +12,7 @@ I am a tenured Assistant Professor @ Monash University, Australia. I am an upcom
 
 I am awarded by National Science Fund for Excellent Young Scholars.
 
-I am actively cruiting Research Assistant, Research Fellow, Bachelor, Master and PhD students @ Zhejiang University & Monash University.
+I am actively recruiting Research Assistant, Research Fellow, Bachelor, Master and PhD students @ Zhejiang University & Monash University.
 
 My research is on Tiny Machine Learning (TinyML) and its applications in computer vision and natural language processing. You can find my lab information and my publications at the top. 
 

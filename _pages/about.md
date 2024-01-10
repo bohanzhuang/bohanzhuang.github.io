@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenured Assistant Professor @ Monash University, Australia. I am an upcoming Hundred-Talent Program Professor @ Zhejiang University and an adjunct Associate Professor @ Monash University. 
+I am a tenured Assistant Professor @ Monash University, Australia. I am an upcoming Hundred-Talent Program Professor @ Zhejiang University.
 
 My research is on Tiny Machine Learning (TinyML) and its applications in computer vision and natural language processing. You can find my lab information and my publications at the top. 
 

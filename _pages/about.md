@@ -12,7 +12,7 @@ I am a tenured Assistant Professor @ Monash University, Australia. I am an upcom
 
 My research is on Tiny Machine Learning (TinyML) and its applications in computer vision and natural language processing. You can find my lab information and my publications at the top. 
 
-I am leading [ZIP Lab][https://ziplab.github.io/].
+I am leading [ZIP Lab](https://ziplab.github.io/).
 
 I am with an award from the National Science Fund for Excellent Young Scholars (Overseas).
 

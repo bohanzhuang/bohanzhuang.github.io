@@ -19,4 +19,4 @@ My research is on Tiny Machine Learning (TinyML) and its applications in compute
 
 I am actively pursuing collaborations with industry.
 
-I don't care what you think about me. I don't think about you at all.
+I don't care what you think about me as I don't care about you at all.

@@ -18,4 +18,4 @@ I am leading [ZIP Lab](https://ziplab.github.io/).
 
 I am actively pursuing collaborations with industry.
 
-I will only respond to emails sent to monash.edu if they are deemed urgent.
+I won't reply to any emails sent to monash.edu unless they are very urgent.

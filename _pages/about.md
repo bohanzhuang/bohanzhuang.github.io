@@ -17,5 +17,3 @@ My research is on Tiny Machine Learning (TinyML) and its applications in compute
 I am leading [ZIP Lab](https://ziplab.github.io/).
 
 I am actively pursuing collaborations with industry.
-
-**I won't reply to any emails sent to monash.edu unless they are very urgent.**

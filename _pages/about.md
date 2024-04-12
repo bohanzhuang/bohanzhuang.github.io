@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenured Assistant Professor @ Monash University, Australia. I am an upcoming Hundred-Talent Program Professor @ Zhejiang University. 
+I am a tenured Faculty staff @ Monash University, Australia. I am an upcoming Hundred-Talent Program Professor @ Zhejiang University. 
 
 I am actively recruiting Research Assistant, Research Fellow, Master and PhD students @ Zhejiang University. If you are interested in my lab, pls drop an email to bohan dot zhuang at gmail dot com     
 

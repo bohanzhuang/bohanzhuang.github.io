@@ -10,8 +10,8 @@ redirect_from:
 
 I am a tenured faculty @ Monash University, Australia. I am an upcoming faculty @ Zhejiang University. 
 
-**I am leading [ZIP Lab](https://ziplab.github.io/), an international chain lab located in both Hangzhou and Melbourne.** I am now actively recruiting Research Assistant, Research Fellow, Master and PhD students @ Zhejiang University. I also occasionally recruit a very limited number of PhD students @ Monash University. If you are interested in my lab, please fill [this form](https://forms.gle/UoR8B19y2NsjtGRJ6). 
+**I am leading [ZIP Lab](https://ziplab.github.io/), an international research lab located in both Hangzhou and Melbourne.** I am actively recruiting Visiting Scholars, Research Assistants, Research Fellows, Masters and PhDs at Zhejiang University. Additionally, I am seeking 1-2 PhD students at Monash University, who will also be co-supervised by senior faculty. If you are interested in my lab, please fill the [Google form](https://forms.gle/UoR8B19y2NsjtGRJ6) or the [Lark form](https://mxvxosxi7l.larksuite.com/share/base/form/shrusYz7yBXxAJuWfjkYVy5ZVee). 
 
-My research focuses on Tiny Machine Learning (TinyML) and its applications in CV and NLP. 
+My research focuses on Tiny Machine Learning (TinyML) and its applications in multi-modality. 
 
 My lab is actively pursuing collaborations with industry partners.

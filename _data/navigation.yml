@@ -4,8 +4,8 @@ main:
   - title: "About"
     url: /
 
-  - title: "First-author Publications"
-    url: /publications/
+#  - title: "First-author Publications"
+#    url: /publications/
 
   - title: "Lab"
     url: https://ziplab.github.io/

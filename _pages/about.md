@@ -14,7 +14,7 @@ My research focuses on efficient machine learning systems for edge applications,
 
 **I am leading [ZIP Lab](https://ziplab.github.io/), an international research lab located in both Hangzhou and Melbourne.** If you are interested in my lab, please fill the [Google form](https://forms.gle/UoR8B19y2NsjtGRJ6). 
 
-**Opening Positions @ Zhejiang University**. PhD students, Visiting Scholars, Research Assistants and Research Fellows. 
+**Opening Positions @ Zhejiang University**. Master & PhD students, Visiting Scholars, Research Assistants and Research Fellows. 
 
 **Opening Positions @ Monash University**. 1-2 PhD students, who will also be co-supervised by senior faculty. 
 

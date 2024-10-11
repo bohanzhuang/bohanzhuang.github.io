@@ -18,6 +18,6 @@ My research focuses on efficient machine learning systems for edge applications,
 
 Opening Positions @ Zhejiang University: Visiting Scholars, Research Assistants and Research Fellows.
 
-Opening Positions @ Monash University: 1 PhD
+Opening Positions @ Monash University: 1 PhD with full scholarship
 
 **My lab is actively pursuing collaborations with industry partners**.

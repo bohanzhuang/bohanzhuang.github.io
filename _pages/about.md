@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently hold the position of ZJU100 Young Professor at Zhejiang University, and I also serve as an adjunct Associate Professor at Monash University, Australia. Previously, I was a tenured Assistant Professor at Monash University from 2020 to 2024. 
+I currently hold the position of Research Professor at Zhejiang University. I also serve as an adjunct Associate Professor at Monash University, and a visiting research scientist at DAMO Academy. Previously, I was a tenured Assistant Professor at Monash University from 2020 to 2024. 
 
 I received the National Science Fund for Excellent Young Scholars (overseas) in 2023, and Qizhen Outstanding Young Scholar in 2024.
 

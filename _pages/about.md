@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently hold the position of Research Professor at Zhejiang University and also serve as an adjunct Faculty at Monash University. Previously, I was a tenured Assistant Professor at Monash University from 2020 to 2024. 
+I currently hold the position of Research Professor at Zhejiang University. Previously, I was a tenured Assistant Professor at Monash University from 2020 to 2024. 
 
 My research focuses on efficient machine learning systems for edge applications, particularly in the areas of large language models and multimodal large models.
 

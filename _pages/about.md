@@ -14,6 +14,6 @@ My research focuses on efficient machine learning systems for edge applications,
 
 If you are interested in my lab, please fill the [Google form](https://forms.gle/UoR8B19y2NsjtGRJ6). 
 
-Opening Positions @ Zhejiang University: **I'm currently recruiting Masters for the 2026 intake.** I also recruit 1-2 outstanding Visiting Scholars, Research Assistants, and Research Fellows throughout the year. 
+Opening Positions @ Zhejiang University: **1 Master and 1 PhD positions available for the 2026 intake.** I also recruit 1-2 outstanding Visiting Scholars, Research Assistants, and Research Fellows throughout the year. 
 
 **My lab is actively pursuing collaborations with industry partners**.

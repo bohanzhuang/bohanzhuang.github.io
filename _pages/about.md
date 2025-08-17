@@ -10,10 +10,10 @@ redirect_from:
 
 I currently hold the position of Research Professor at Zhejiang University. Previously, I was a tenured Assistant Professor at Monash University from 2020 to 2024. 
 
-My research focuses on efficient machine learning systems for edge applications, particularly in the areas of large language models and multimodal large models.
+My research focuses on the co-design of efficient algorithms and systems for multimodal large foundation models.
 
 If you are interested in my lab, please fill the [Google form](https://forms.gle/UoR8B19y2NsjtGRJ6). 
 
-Opening Positions @ Zhejiang University: **1 Master position available for the 2026 intake.** I also recruit 1-2 outstanding Visiting Scholars, Research Assistants, and Research Fellows throughout the year. 
+Opening Positions @ Zhejiang University: We are recruting Research Assistants throughout the year. If you wish to apply for a PhD or master's program under my supervision for the 2027 intake, please join my lab in advance to participate in research.
 
 **My lab is actively pursuing collaborations with industry partners**.

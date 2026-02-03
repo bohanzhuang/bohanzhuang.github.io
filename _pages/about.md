@@ -14,6 +14,4 @@ My research focuses on the co-design of efficient algorithms and systems for mul
 
 If you are interested in our lab, please fill the [Google form](https://forms.gle/UoR8B19y2NsjtGRJ6). 
 
-Opening Positions @ Zhejiang University: We are recruting Research Assistants throughout the year. If you wish to apply for a PhD or master's program under my supervision for the 2027 intake, please join [ZIP Lab](https://ziplab.github.io/) in advance to participate in research.
-
 Our lab is actively pursuing collaborations with industry partners.

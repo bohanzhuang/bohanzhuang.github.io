@@ -12,6 +12,6 @@ I currently serve as a Research Professor at Zhejiang University and an Adjunct 
 
 My research focuses on the co-design of efficient algorithms and systems for multimodal large foundation models.
 
-If you are interested in our lab, please fill the [Google form](https://forms.gle/UoR8B19y2NsjtGRJ6). 
+If you are interested in our lab for Master / PhD applications, or for Research Assistant applications, please refer to this [Post](https://ziplab.co/uploads/zip-lab-poster-full.html).
 
 Our lab is actively pursuing collaborations with industry partners.

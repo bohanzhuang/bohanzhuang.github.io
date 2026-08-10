@@ -16,4 +16,3 @@ If you are interested in our lab for Master / PhD applications, or for Research 
 
 Our lab is actively pursuing collaborations with industry partners.
 
-<span style="color:red"><strong>The application for the 2027 postgraduate intake is now closed.</strong></span>

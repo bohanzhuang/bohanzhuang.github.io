@@ -16,3 +16,6 @@ If you are interested in our lab for Master / PhD applications, or for Research 
 
 Our lab is actively pursuing collaborations with industry partners.
 
+<span style="color:#d00000">One 2027 PhD slot available: C9 applicants ranked within top 10% of cohort.</span>
+
+

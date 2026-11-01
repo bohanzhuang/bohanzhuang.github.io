@@ -14,6 +14,6 @@ My research focuses on the co-design of efficient algorithms and systems for mul
 
 If you are interested in our lab for Master / PhD applications, or for Research Assistant applications, please refer to this [Post](https://ziplab.co/uploads/zip-lab-poster-full.html).
 
-Our lab is actively pursuing collaborations with industry partners.
+<span style="color:red">Please do not contact me directly. Submit your CV to zip.lab@outlook.com. We will review all applications and arrange interviews centrally.</span>
 
 
